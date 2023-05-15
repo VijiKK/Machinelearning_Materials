@@ -1,0 +1,11 @@
+https://github.com/dakilaledesma/Intro-to-Machine-Learning/blob/master/python_tutorial/python-tutorial.ipynb
+
+The GitHub repository specific to this class may be found here:
+https://github.com/bgq527/Intro-to-Machine-Learning
+
+Connect Anaconda environment to PyCharm
+
+https://github.com/bgq527/s20-intro-ml/blob/master/pycharm_anaconda_setup/pycharm_anaconda_setup.md
+
+Python Programming (DIY)
+https://www.w3schools.com/python/default.asp

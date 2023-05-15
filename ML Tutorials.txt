@@ -1,0 +1,68 @@
+Overview of Deep Learning (DIY), YouTube
+https://www.youtube.com/watch?v=O5xeyoRL95U&t=2240s
+
+Python Machine Learning (DIY), YouTube
+https://www.youtube.com/watch?v=7eh4d6sabA0
+
+Bias-Variance Tradeoff, YouTube
+https://www.youtube.com/watch?v=EuBBz3bI-aA
+https://www.youtube.com/watch?v=1JWpXHgqj54
+
+
+Recurrent Neural Network - Sample code
+https://www.tensorflow.org/guide/keras/rnn
+
+Application of GAN website
+https://pathmind.com/wiki/generative-adversarial-network-gan
+
+Logistic Regression
+https://www.youtube.com/watch?v=YMJtsYIp4kg
+https://www.youtube.com/watch?v=mLth3-4yn4Q&t=99s
+https://www.youtube.com/watch?v=ozG1Ar6B_t4&t=912s
+https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a
+
+Decision Tree
+https://www.youtube.com/watch?v=eKD5gxPPeY0
+
+Random Forest
+https://www.youtube.com/watch?v=loNcrMjYh64
+
+K-means
+https://www.youtube.com/watch?v=4b5d3muPQmA
+
+KNN
+https://www.youtube.com/watch?v=6kZ-OPLNcgE
+
+Support Vecotor
+https://www.youtube.com/watch?v=efR1C6CvhmE&t=1077s
+
+MLP
+https://www.youtube.com/watch?v=kft1AJ9WVDk
+
+GAN
+https://pathmind.com/wiki/generative-adversarial-network-gan
+https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/
+https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/
+
+A Gentle Introduction to GAN
+https://www.youtube.com/watch?v=3z8VSpBL6Vg
+https://www.youtube.com/watch?v=8L11aMN5KY8&t=1128s
+
+
+LSTM: Time series prediction
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+
+AutoEncoders
+https://blog.keras.io/building-autoencoders-in-keras.html
+
+Overview of Reinforcement Learning
+https://www.youtube.com/watch?v=5fHngyN8Qhw
+
+GNN
+https://www.youtube.com/watch?v=2KRAOZIULzw
+https://www.youtube.com/watch?v=-UjytpbqX4A
+https://www.youtube.com/watch?v=cWIeTMklzNg
+https://www.youtube.com/watch?v=-UjytpbqX4A&ab_channel=LindseyAI
+https://www.youtube.com/watch?v=zCEYiCxrL_0&ab_channel=MicrosoftResearch
+https://www.youtube.com/watch?v=9XoCQn34tXo
+

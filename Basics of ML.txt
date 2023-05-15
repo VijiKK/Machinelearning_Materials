@@ -1,0 +1,24 @@
+Roadmap, classroom policy, and grading policy of CPSC4430/5440
+Overview of Machine Learning theories and applications
+Related fundamentals:
+Linear algebra: vector, matrix, tensor, space
+Partial derivation and optimization
+Information science: entropy and information gain
+
+Regression:
+linear regression,
+logistic regression,
+stepwise regression,
+multivariate adaptive regression splines, and
+locally estimated scatterplot smoothing
+
+Supervised Learning
+Decision tree and random forest
+Classification
+
+Unsupervised Learning
+Clustering: K-Means, K-Nearest Neighbor, Hierarchical Clustering
+
+Dimensionality Reduction
+Related fundamentals: Eigenvalue and Singular Value Decomposition (linear algebra)
+Principal Component Analysis (PCA) (Python Skitlearn PCA demo, by Tucker)
